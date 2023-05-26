@@ -2,7 +2,7 @@
 
 In this project, we worked with an existing project that displays a list of parties on a webpage. The goal was to fix issues and add functionality to the project. Here's a summary of what we did:
 
-Cloned the repository: We started by cloning/copy the project repository from the provided to our local computer. This allowed us to work with the project files.
+Cloned the repository: We started by cloning/copy the project from repository provided to our local computer. This allowed us to work with the project files.
 
 Opened the project in VSCode: We navigated to the project folder and opened it in Visual Studio Code (VSCode) or any other code editor of our choice. This allowed us to view and modify the project files.
 
